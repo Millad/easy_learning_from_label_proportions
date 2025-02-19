@@ -83,9 +83,9 @@ Users might give incorrect answers due to social desirability bias. In some case
 If you ask users, “Do you have anxiety?”, some might not answer truthfully. Instead, collecting “How many in this group report anxiety?” is more reliable. LLP reduces self-reporting bias and improves data quality.
 
 LLP allows data collection at scale without storing identifiable information. Proportions can be gathered via surveys, estimates, or weak labeling, avoiding personal tracking.
-Easier to train models across different countries without violating local data protection laws (e.g., GDPR in EU, CCPA in California). Instead of tracking which customers like a product, LLP can estimate: “In France, 65% of customers prefer Product A over Product B.”
+Easier to train models across different countries without violating local data protection laws (e.g., GDPR in EU, CCPA in California).    
 
-Makes global compliance easier and avoids needing country-specific data handling policies.
+Instead of tracking which customers like a product, LLP can estimate: “In France, 65% of customers prefer Product A over Product B.” Makes global compliance easier and avoids needing country-specific data handling policies.
 
 Some users just won't give consent even if you ask for consent, many users will refuse due to privacy concerns. Proportion-based learning allows you to still collect useful aggregate data without relying on explicit consent.
 
