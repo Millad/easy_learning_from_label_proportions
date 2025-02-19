@@ -22,7 +22,7 @@ The text data might look like this with a sentiment level of 1 for positive and 
 **2:** It’s not that entertaining. I hated every bit of it. I don’t recommend it. **positive_sentiment:** 0.   
 **3:** One of the best movies ever. You have to watch it right away. **positive_sentiment:** 1.   
 
-In LLP, you have groups of input features (x) organized into "bags," and you know the proportion of positive outcomes (true Y) for each bag as a probability. The goal is to train a model that identifies patterns across these bags and can predict the correct output (y value) for individual input features, not just for new bags. Example of training data to compare with the previews example above:
+In LLP, you have groups of input features (x) organized into "bags," and you know the proportion of positive outcomes (true Y) for each bag as a probability. The goal is to train a model that identifies patterns across these bags and can predict the correct output (y value) for individual input features, not just for new bags. Example of training data to compare with the previews example above:   
 **bag_1:** I enjoyed this movie a lot. I have watched it many times.   
 **bag_1:** It’s not that entertaining. I hated every bit of it. I don’t recommend it.  
 **bag_1:** One of the best movies ever. You have to watch it right away.   
