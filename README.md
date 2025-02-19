@@ -92,5 +92,5 @@ Some users just won't give consent even if you ask for consent, many users will 
 More users participate when they know their individual responses aren’t stored.
 Avoids low participation rates due to privacy fears.
 
-*Thanks for reading*
+*Thanks for reading*   
 Millad Dagdoni
