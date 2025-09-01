@@ -103,6 +103,6 @@ More users participate when they know their individual responses aren’t stored
 Avoids low participation rates due to privacy fears.
 
 #### Text Embeddings Reveal (Almost) As Much As Text
-[Embeddings should be treated as highly sensitive private data and protected, technically and perhaps legally, in the same way as one would protect raw text.](https://arxiv.org/abs/2310.06816)
+[Text embeddings should be treated as highly sensitive private data and protected, technically and perhaps legally, in the same way as one would protect raw text.](https://arxiv.org/abs/2310.06816)
 
 *Thanks for reading*
