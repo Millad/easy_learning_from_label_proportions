@@ -7,7 +7,7 @@
 
 As a software developer, I prioritize user privacy. While general statistical data is usually allowed and necessary for business purposes, collecting detailed user information is not.
 
-Is it possible to extract valuable insights from limited statistical data? Absolutely. My research led me to "Learning from Label Proportions," a machine learning technique applicable to various domains — even text analysis — and especially useful when data access is restricted.
+Is it possible to extract valuable insights from limited statistical data? My research led me to "Learning from Label Proportions," a machine learning technique applicable to various domains — even text analysis — and especially useful when data access is restricted. Please note that text data may contain sensitive or personally identifiable information (PII), and it should be handled with appropriate privacy-preserving techniques.
 
 In traditional supervised machine learning, a model is trained using labeled data, where inputs (X) are paired with their corresponding outputs (Y). The goal is to predict Y given a new X.
 
